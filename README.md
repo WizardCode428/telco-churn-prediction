@@ -111,3 +111,5 @@ Then download the dataset from Kaggle, put the CSV into `data/`, open `churn_bas
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+![stonks](stonks.jpeg)
